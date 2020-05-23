@@ -1,6 +1,6 @@
 {
   "name": "@daniilzak/number-formatter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Practicing npm deployment",
   "main": "index.js",
   "engines": {
