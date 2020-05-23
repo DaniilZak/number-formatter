@@ -1,0 +1,25 @@
+{
+  "name": "@daniilzak/number-formatter",
+  "version": "0.1.0",
+  "description": "Practicing npm deployment",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.16"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniilZak/number-formatter.git"
+  },
+  "keywords": [
+    "number-formatter"
+  ],
+  "author": "Daniil <dz.daniil@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaniilZak/number-formatter/issues"
+  },
+  "homepage": "https://github.com/DaniilZak/number-formatter#readme"
+}
